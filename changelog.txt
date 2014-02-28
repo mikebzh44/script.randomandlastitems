@@ -1,3 +1,7 @@
+v1.2.5
+- [Fix] Set playlist name to blank when name is not define in XSP file
+- [Fix] Set property to blank when property in not define (ie no studio for a movie)
+
 v1.2.4
 - [Fix] Albums properties were not cleared properly
 - [Add] New property AlbumDesc
